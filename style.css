@@ -1,0 +1,39 @@
+div[class^="col"]{
+    min-height: 50px;
+    border: 1px solid black;
+    background-image: url('img\kys.jpg');
+}
+.row{
+    border: 1px dashed red;
+}
+
+h1{
+    font-family: "Ancizar Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(23, 105, 116);
+}
+h2{
+    font-family: "Pattaya", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(25, 92, 92);
+  }
+  h3{
+        font-family: "Playwrite DE Grund", cursive;
+        font-optical-sizing: auto;
+        font-weight:200;
+        font-style: normal;
+        color: rgb(13, 113, 121);
+  }
+  h4{
+    font-family: "Playwrite DE Grund", cursive;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal; 
+  }
+  .btn-lg{
+    background-color: rgb(59, 148, 160);
+    color: rgb(255, 255, 255);
+  }
