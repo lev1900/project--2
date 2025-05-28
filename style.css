@@ -1,7 +1,7 @@
 div[class^="col"]{
     min-height: 50px;
     border: 1px solid black;
-    background-image: url('img\kys.jpg');
+   
 }
 .row{
     border: 1px dashed red;
@@ -36,4 +36,10 @@ h2{
   .btn-lg{
     background-color: rgb(59, 148, 160);
     color: rgb(255, 255, 255);
+  }
+  .black-white{
+    background-image:url(img/kys.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
   }
